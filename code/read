@@ -1,1 +1,6 @@
-code theo từng chức năng
+Phân tích theo từng file:
+1. loading_and_transform: tải data và làm sạch dữ liệu
+2. phan_tich_theo_mon_hoc: phân tích dữ liệu điểm theo môn học
+3. phan_tich_theo_khoi_thi: phân tích dữ liệu điểm theo khối thi
+4. phan_tich_theo_dia_phuong: phân tích dữ liệu điểm theo địa phương
+5. tuong_quan_giua_cac_mon_thi_va_khoi_thi: phân tích điểm tương quan điểm giữa các môn thi và khối thi
